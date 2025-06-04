@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+target/
+*.class
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build tools
+# (додай залежно від інструментів)
+# Maven
+/logs
+*.log
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Temporary
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Environment files
+.env
